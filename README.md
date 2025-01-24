@@ -1,0 +1,2 @@
+# How-to-make-Character-Control-with-Unity-Visual-Scripting-
+Utilize Unity 2021.2++ visual scripting to create character movements without coding. Prepare the scene, add Rigid Body and Mesh Collider components, set up variables and player inputs. Use nodes to manage logic graphically, enabling easy character control like walking and jumping. Perfect for non-programmers and speeds up game development.
